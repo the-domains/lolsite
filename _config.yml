@@ -6,9 +6,9 @@ color:
   saturation: 0.9558891302440315
   rhythmicContrast: 0.8693897351622581
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FEFEFC'
+    - '#170E0F'
+    - '#6B5E4E'
+    - '#B7C2BC'
+    - '#E1705E'
 name: lolsite
