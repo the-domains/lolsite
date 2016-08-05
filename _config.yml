@@ -1,0 +1,14 @@
+layout_spectrum: 0.68371094414033
+typography_spectrum: 0.18954530730843544
+color:
+  brandStrength: 0.6786455705296248
+  lightness: 0.8347763419151306
+  saturation: 0.9558891302440315
+  rhythmicContrast: 0.8693897351622581
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: lolsite
